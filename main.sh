@@ -4,7 +4,7 @@ echo pipeline init
 while true;do echo -n ':( ';sleep 1;done &
 cd src
 python ngram_vis.py
-python desc_vis.py
+python scopus_vis.py
 cd ..
 kill $!; trap 'kill $!' SIGTERM
 echo
