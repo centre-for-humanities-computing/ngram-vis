@@ -1,0 +1,35 @@
+Arts and Humanities
+231
+
+Social Sciences
+83
+
+Psychology
+79
+
+Neuroscience
+14
+
+Computer Science
+5
+
+Agricultural and Biological Sciences
+4
+
+Medicine
+4
+
+Nursing
+3
+
+Biochemistry, Genetics and Molecular Biology
+2
+
+Earth and Planetary Sciences
+1
+
+Economics, Econometrics and Finance
+1
+
+Multidisciplinary
+1

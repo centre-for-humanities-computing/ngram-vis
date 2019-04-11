@@ -1,0 +1,22 @@
+Index	Publikation	h5-indeks	h5-median
+1	Journal of Religion and Health	28	38
+2	Psychology of Religion and Spirituality	25	43
+3	Journal for the Scientific Study of Religion	25	31
+4	Mental Health, Religion & Culture	20	26
+5	Religion, Brain & Behavior	17	30
+6	Sociology of Religion	17	26
+7	The International Journal for the Psychology of Religion	17	23
+8	Journal of Management, Spirituality & Religion	15	20
+9	Journal of the American Academy of Religion	14	21
+10	Religions	14	18
+11	Religion	13	19
+12	Journal of Contemporary Religion	12	18
+13	Politics and Religion	12	17
+14	Culture and Religion	12	16
+15	Method & Theory in the Study of Religion	9	21
+16	Journal of Religion & Spirituality in Social Work: Social Thought	9	17
+17	Journal for the Study of Religions and Ideologies	9	14
+18	Critical Research on Religion	9	13
+19	Journal for the Study of Religion, Nature & Culture	9	13
+20	Teaching Theology & Religion	9	13
+

@@ -1,0 +1,24 @@
+Article
+180
+
+Review
+50
+
+Book Chapter
+29
+
+Book
+8
+
+Article in Press
+7
+
+Editorial
+6
+
+Conference Paper
+3
+
+Note
+3
+
